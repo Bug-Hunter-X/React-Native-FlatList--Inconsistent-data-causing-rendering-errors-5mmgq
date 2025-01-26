@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle bug in React Native's FlatList component.  The bug arises from inconsistencies in the data array provided to FlatList, leading to rendering errors or crashes. The solution highlights how to identify and resolve these inconsistencies through careful data validation and handling.
